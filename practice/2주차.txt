@@ -1,0 +1,23 @@
+변수값 
+{} 안에 변수명
+boolean은 .tostring으로 변환해서
+
+삼항연산자 예
+<div>{isLogin ? <button>Logout</button>:<button>Login</button>}</div>
+
+스프레드 연산자 
+    const stu = {name, age};
+    const person = {...stu, job};
+	<h3>{person.name},{person.age},{person.job}</h3>
+
+자동완성
+rafce
+
+
+
+
+
+
+
+
+
